@@ -2,17 +2,17 @@
 <h3 align="center">Saya seorang manusia biasa</h3>
 <div align="center">
   <div style="display: inline-block;">
-    <img alt="Night Coding" width="50%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+    <img alt="Night Coding" width="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHF6ZXJocTdyYnVsaHVqZzc0dWsxdDU0aWR3MjhvcXQ5cmgxZTFwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
   </div>
 </div>
 <div align="center">
   <div style="display: inline-block; text-align: center;">
     <h3 align="center">Connect with me:</h3>
-    <a href="https://www.linkedin.com/in/indra-riksa-herlambang-404/" target="blank">
+    <a href="https://www.linkedin.com/in/indra-riksa-herlambang-404/" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
           alt="indra-riksa-herlambang-404/" height="30" width="40" />
     </a>
-      <a href="https://instagram.com/indrariksa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christyuda_" height="30" width="40" /></a>
+      <a href="https://instagram.com/indrariksa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indrariksa" height="30" width="40" /></a>
   </div>
 </div>
 
