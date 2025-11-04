@@ -16,13 +16,10 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrariksa&theme=dark" alt="GitHub Streak" />
-</div>
-
 <div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=indrariksa&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=indrariksa&layout=compact&show_icons=true&theme=react" alt="indrariksa github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=indrariksa&theme=react" width="49%" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=indrariksa&layout=compact&show_icons=true&theme=react&include_all_commits=true&count_private=true" width="49%"/>
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=indrariksa&layout=compact&show_icons=true&theme=react&include_all_commits=true&count_private=true" /> -->
 </div>
 <br />
 <div>
