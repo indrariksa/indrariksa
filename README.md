@@ -50,6 +50,12 @@
 
 ---
 
+## 🏆 Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=MatinT-SA&theme=onedark)
+
+---
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/indrariksa/)
