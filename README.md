@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Name-Indra-blue" alt="Job Status" style="height: 25px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/Birth_Year-1997-pink" alt="Birth Year" style="height: 25px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/Learning-Flutter%20%26%20GO-yellow" alt="Learning" style="height: 25px; vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Name-Indra-green" alt="Job Status" style="height: 25px; vertical-align: middle;"/>
+  <!-- <img src="https://img.shields.io/badge/Birth_Year-1997-pink" alt="Birth Year" style="height: 25px; vertical-align: middle;"/> -->
+  <img src="https://img.shields.io/badge/Learning-Flutter%20%26%20GO-blue" alt="Learning" style="height: 25px; vertical-align: middle;"/>
 </p>
 
 <div style="display: flex; align-items: center; justify-content: center;">
