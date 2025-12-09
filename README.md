@@ -23,7 +23,7 @@
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrariksa&layout=compact&theme=react" alt="indrariksa github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=indrariksa&layout=compact&theme=react" alt="indrariksa github readme top-langs" width="39%" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=indrariksa&theme=merko" alt="indrariksa github readme activity graph" width="60%" />
 </div>
 
